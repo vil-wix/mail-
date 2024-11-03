@@ -18,3 +18,4 @@ a=a*10
 a=int(a)
 a=a%10
 print(a)
+print(int(float('123.456') * 10) % 10)
